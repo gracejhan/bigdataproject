@@ -58,3 +58,7 @@ defined as intersection over union greater than threshold
     * _query._ getColsofCategory("table", ["column1", "column2"], category= 'State_full')
 * `returnOutliers`: Returns column values that appears equal or less compared to the given threshold
 	* _query._ returnOutliers([“column1”, "column2"], threshold)
+
+## Course
+* Big Data
+* [Spring 2018](https://vgc.poly.edu/~juliana/courses/BigData2018/) with Juliana Freire
