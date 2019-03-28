@@ -61,4 +61,4 @@ defined as intersection over union greater than threshold
 
 ## Course
 * Big Data
-* [Spring 2018](https://vgc.poly.edu/~juliana/courses/BigData2018/) with Juliana Freire
+* [Spring 2018](https://drive.google.com/file/d/1KPG_yW0ddZqeTEMqE7qBx9XQlN7a3Emu/view?usp=sharing) with Juliana Freire
