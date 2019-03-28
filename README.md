@@ -2,6 +2,9 @@
 ## Introduction
 Table Collections includes 11 queries for exploring data in various ways on single or multiple datasets even when the contents are unclear to the user. Metadata is generated only once when a dataset is loaded. When a query is called, it runs on pre-generated metadata. Columns within same table or columns from multiple tables can be compared. The queries have been tested on multiple sized data from NYC Open Data. (https://opendata.cityofnewyork.us/)
 
+## Documents
+Check our [final paper](https://drive.google.com/file/d/1ZFxs66_fTxra7jqIHNtTzZTNuE2_FQol/view?usp=sharing) and [poster presentation](https://drive.google.com/file/d/1hQzBTKU5WdT8W6QV6F_4StL0w6A5e9F8/view?usp=sharing)
+
 ## Usage
     tc = TableCollections(spark, sc)
     tc.register(openTable, "open") # Create Metadata for New Table
